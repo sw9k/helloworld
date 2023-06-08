@@ -18,4 +18,3 @@ _prune:
 	-@docker image prune --force
 	-@docker container prune --force
 
-
